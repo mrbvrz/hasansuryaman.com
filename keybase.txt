@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mrbvrz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hasansuryaman.com
+  * I am mrbvrz (https://keybase.io/mrbvrz) on keybase.
+  * I have a public key ASD3m6V2zMQ_NY5ZqZdn6sigxDFEVvQhvHZaJ1WYwf4NTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120adcd9a09feaa620c8e40a047064ee7929dcf4751c287d596a1af935c32fe21af0a",
+      "host": "keybase.io",
+      "kid": "0120f79ba576ccc43f358e59a99767eac8a0c4314456f421bc765a275598c1fe0d4f0a",
+      "uid": "136444039614d0841575c9053c80c919",
+      "username": "mrbvrz"
+    },
+    "merkle_root": {
+      "ctime": 1594189885,
+      "hash": "c7ec0de3ef2c548ca73792551afcec14ee79f1dccb6d221672dca94302ab0f3ad76eb13b5baa1c0bfcdbc0558d1cb7fb454964890afb4c544441b4727642cf9a",
+      "hash_meta": "c59d1c056c5b4a0e77a5a461b2e5b5311272d6b4485e5bd32235cf85fa213d12",
+      "seqno": 16903876
+    },
+    "service": {
+      "entropy": "3UgUy1aMJUsPpd2kYC3lY+EE",
+      "hostname": "hasansuryaman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1594189920,
+  "expire_in": 504576000,
+  "prev": "8f4824e0c5b5ca46aa74fe4df67ee7c612f6e6cef6b7630a0e1e320fe93177a1",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg95uldszEPzWOWamXZ+rIoMQxRFb0Ibx2WidVmMH+DU8Kp3BheWxvYWTESpcCGcQgj0gk4MW1ykaqdP5N9n7nxhL25s72t2MKDh4yD+kxd6HEIAOYjypOgmBEe8UOAF0OU3mRiFet3lQDiPtzIAudPmhvAgHCo3NpZ8RA/7urnam30YN82S5S3hd70ZbBUAii+9DKiLIzF9JlM8Nih09i9d5a9InyObOdPOnKxJs17FqWjC6ha/rvkPFxAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFA1z/BYBTCm4HzE+3xYhe+QRCy4Y8X6zcf/4WyvxKgfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrbvrz
+
+==================================================================
